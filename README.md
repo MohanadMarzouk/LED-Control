@@ -1,5 +1,6 @@
 # LED-Control
-MCU: Tiva C - TM4C123GH6PM
+Target: Tiva C - TM4C123GH6PM
+
 Controlling LED blinking through variable PWM signal created by a timer and defined by the LED driver user. 
 The project simulates the working principle of the PWM by using timer. The SysTick timer is the timer used to control the ON-OFF time duration defined by the user.
 ************************************************************************************************************************************************************************
