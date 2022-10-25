@@ -17,12 +17,13 @@ HAL:
 
 Drivers Description:
 ------
-DIO:The driver initializes the port/pin, as GPIO, the user configure in the configuration structure.
+DIO: The driver initializes the port/pin, as GPIO, the user configure in the configuration structure.
 The DIO Driver provides services for reading and writing to/from:
 - DIO Channels (Pins).
 - DIO Ports.
 Timer Driver (SysTick): The driver provides services for enabling/ disabling timer, set and get the timer period, and get the current timer value.
-Interrupt Control Driver: The driver provides service for intializing configured interrupts accroding to the user configuration.
-LED Driver: The driver provides services for turing on, toggoling, and turning off the 3 LEDs offered on the Tiva C.
+Interrupt Control Driver: The driver provides a service for initializing configured interrupts according to the user configuration.
+LED Driver: The driver provides services for turning on, toggling, and turning off the 3 LEDs offered on the Tiva C.
 ********************************************************************************************************************************************************
-![CTOS](https://user-images.githubusercontent.com/89541126/197794148-5250b906-5dd0-452c-a7ec-368ab03dcdf8.PNG)
+
+![Diagram](https://user-images.githubusercontent.com/89541126/197794988-84156180-b19d-4d7c-a6bc-cb9588392890.jpg)
