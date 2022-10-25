@@ -15,7 +15,7 @@ HAL:
 - LED Driver. 
 
 
-Drivers Description:
+Drivers' Description:
 ------
 DIO: The driver initializes the port/pin, as GPIO, the user configure in the configuration structure.
 The DIO Driver provides services for reading and writing to/from:
