@@ -18,7 +18,7 @@ HAL:
 
 Drivers' Description:
 ------
-DIO: The driver initializes the port/pin, as GPIO, the user configure in the configuration structure.
+DIO: The driver initializes the port/pin, as GPIO, as the user configure in the configuration structure.
 The DIO Driver provides services for reading and writing to/from:
 - DIO Channels (Pins).
 - DIO Ports.
