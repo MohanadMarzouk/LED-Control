@@ -22,6 +22,7 @@ DIO: The driver initializes the port/pin, as GPIO, as the user configure in the 
 The DIO Driver provides services for reading and writing to/from:
 - DIO Channels (Pins).
 - DIO Ports.
+
 Timer Driver (SysTick): The driver provides services for enabling/ disabling timer, set and get the timer period, and get the current timer value.
 Interrupt Control Driver: The driver provides a service for initializing configured interrupts according to the user configuration.
 LED Driver: The driver provides services for turning on, toggling, and turning off the 3 LEDs offered on the Tiva C.
