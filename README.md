@@ -5,6 +5,7 @@ Controlling LED blinking through variable PWM signal created by a timer and defi
 The project simulates the working principle of the PWM by using timer. The SysTick timer is the timer used to control the ON-OFF time duration defined by the user.
 ************************************************************************************************************************************************************************
 The project is implemented using the following drivers:
+
 MCAL:
 -------
 - Timer Driver (SysTick).
